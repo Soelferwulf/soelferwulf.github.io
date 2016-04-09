@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Studentský projekt Katedry informačních studíí a knihovnictví (Masarykova univerzita)
 
-### More Information
+### Další info
 
-A place to include any other types of information that you'd like to include about yourself.
+student 2. semestru
 
-### Contact me
+### Kontakt
 
-[email@domain.com](mailto:email@domain.com)
+[45000@mail.muni.cz](mailto:450000@mail.muni.cz)
