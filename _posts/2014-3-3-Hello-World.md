@@ -1,11 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Pojď se přidat, pojď si hrát!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Několik stránek na internetu s tímto zaměřením najdeme, ale nemyslím si, že by to byla nějaká sláva. A když se podíváte například na stránku http://www.cist.cz/Pohadky/pohadky.htm , která je v chabé úpravě a denně ji navštíví skoro tisícovka unikátních návštěvníků. Tak bych to taky rád zkusil. Z časových důvodů bych nejdříve začal s pohádkami s volnou licencí a postupně by mě třeba bavila rubrika moderních pohádek, kde bych si třeba sám zkusil přetvořit klasické pohádky do dnešní doby.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. 
-For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
