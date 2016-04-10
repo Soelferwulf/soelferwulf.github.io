@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Age of Sails
 permalink: /about/
 ---
 
-#### Age of Sails - co to je?
+#### Co to je?
 
 Tento web se zabývá krásnými výtvory ze dřeva, plátna, kovu a tun lidského potu. Tedy plachetnicemi především ze zlatého věku, cca 18.  století, doby před tím, než eleganci na hladině oceánů nahradila ocel a kouř. Érou někdy přezdívanou „Age of Sails“, kdy bitvy, o kterých lidé na břehu ani nevěděli, ovlivňovaly osudy impérií a kdy se rozhodovalo o tom, že se dnes děti po celém světě budou učit anglicky.
 
