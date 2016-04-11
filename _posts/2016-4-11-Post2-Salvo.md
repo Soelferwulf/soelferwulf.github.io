@@ -3,7 +3,7 @@ layout: post
 title: Oslavná salva
 ---
 
-##### Oslavná salva
+##### Trocha pyrotechniky, spousta hodin práce a dvě a půl století stará loď
 
 Při příležitosti spuštění tohoto malého a bezvýznamného webu vkládám video s oslavnou salvou z lodi HMS Victory,
 pravděpodobně nejslavnější lodí historie po Columbově Santa Marii. Tato řadová loď první třídy byla spuštěna na
