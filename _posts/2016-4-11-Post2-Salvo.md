@@ -1,3 +1,8 @@
+---
+layout: post
+title: Oslavná salva
+---
+
 #####Oslavná salva
 
 Při příležitosti spuštění tohoto malého a bezvýznamného webu vkládám video s oslavnou salvou z lodi HMS Victory,
@@ -6,4 +11,4 @@ vodu v roce 1765 a působila jako vlajková loď admirála Nelsona v bitvě u Tr
 Portsmouth a působí jako muzeum, nicméně je vedena jako loď v činné službě a je tak nejstarší válečnou lodí v aktivní
 službě na světě a oficiálně je vlajkovou lodí Prvního námořního lorda.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i0KE-Vo0I0E?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/i0KE-Vo0I0E?rel=0" frameborder="0" allowfullscreen></iframe>
