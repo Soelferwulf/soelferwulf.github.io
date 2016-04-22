@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tým a popis projektu</title>
+</head>
+    <style>
+        body{text-align: center
+        
+        }
+    
+    </style>
+<body>
+<p> Tento projekt má za cíl podpořit čtení dětem před spaním.</p>
+<p>Autory tohoto webu jsou: Eliška Dobešová, Jiří Fleger, Miroslav Rada</p>
+</body>
+</html>
