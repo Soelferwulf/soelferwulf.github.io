@@ -32,6 +32,8 @@ překroucené, krátké pohádky, dlouhé příběhy na pokračování)
 
 ### Kontakt
 
-[395096@mail.muni.cz](mailto:395096@mail.muni.cz)
-[449972@mail.muni.cz](mailto:449972@mail.muni.cz)
+[395096@mail.muni.cz](mailto:395096@mail.muni.cz),
+
+[449972@mail.muni.cz](mailto:449972@mail.muni.cz),
+
 [45000@mail.muni.cz](mailto:450000@mail.muni.cz)
