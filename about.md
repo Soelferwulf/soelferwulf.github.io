@@ -5,14 +5,18 @@ permalink: /about/
 ---
 
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Age of Sails</title>
   <meta charset="utf-8">
   <style>
       body {
-          background-color: aquamarine;
+          background-color: 	rgb(50,50,50);
+          font-family:  garamond ;
+          color: #87CEEB;
+      }
+      a {
+          color: #87CEEB;
       }
   </style>
 </head>
