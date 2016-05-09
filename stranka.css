@@ -5,3 +5,7 @@ body {
   background-attachment: fixed;
   background-color: black;
 }
+
+div.entry {
+  color: rgb(150, 222, 152);
+}
