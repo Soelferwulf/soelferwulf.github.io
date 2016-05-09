@@ -16,6 +16,6 @@ article {
 footer {
   background-color: rgb(202, 228, 204);
 }
-div {
+div.wrapper-footer {
   background-color: rgb(202, 228, 204);
 }
