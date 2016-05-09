@@ -36,6 +36,10 @@ div.wrapper-footer {
   border-radius: 10px;
   padding: 10px;
 }
+nav {
+  margin: auto;
+  width: 100%;
+}
 a.list {
   padding: 20px;
   margin: 30px;
