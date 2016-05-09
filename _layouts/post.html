@@ -1,7 +1,25 @@
 ---
 layout: default
 ---
+<html>
+  <head>
+    <style>
+      body {
+  background-image: url(https://raw.githubusercontent.com/450000/450000.github.io/master/images/pozadi.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: black;
+}
 
+article {
+  margin-bottom: 20px;
+  padding: 1px 15px 15px 15px;
+  border-radius: 10px;
+  background-color: rgb(187, 228, 191);
+}
+    </style>
+  </head>
 <article class="post">
   <h1>{{ page.title }}</h1>
 
@@ -15,3 +33,4 @@ layout: default
 
   {% include disqus.html %}
 </article>
+</html>
