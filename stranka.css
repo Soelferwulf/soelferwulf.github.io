@@ -17,10 +17,6 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
-  margin-left 20px;
-  margin-bottom: 20px;
-  width: 40px;
-  height: 20px;
 }
 div.wrapper-footer {
   background-color: rgb(202, 228, 204);
