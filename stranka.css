@@ -38,5 +38,7 @@ div.wrapper-footer {
 }
 nav {
   float: bottom;
+  margin: auto;
+  width: 100%;
 }
 
