@@ -37,6 +37,23 @@ div.wrapper-footer {
   padding: 10px;
 }
 nav {
-  float: bottom;
+  width: 80%;
+}
+
+nav ul {
+  text-align: justify;
+  line-height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul:after {
+  content: '';
   display: inline-block;
+  width: 100%;
+}
+
+nav ul li {
+  display: inline-block;
+  line-height: 100%;
 }
