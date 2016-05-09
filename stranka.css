@@ -3,12 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: black;
-  height: 100%;
-}
-div.wrapper {
-   min-height:100%;
-   position:relative;
+  background-color: rgb(202, 228, 204);
 }
 article {
   margin-bottom: 20px;
@@ -19,9 +14,13 @@ article {
 }
 footer {
   background-color: rgb(202, 228, 204);
-  position: relative;
+  position: fixed
   bottom: 0;
-  width: 60px;
+  left: 0
+  margin-left 20px;
+  margin-bottom: 20px;
+  width: 40px;
+  height: 20px;
 }
 div.wrapper-footer {
   background-color: rgb(202, 228, 204);
