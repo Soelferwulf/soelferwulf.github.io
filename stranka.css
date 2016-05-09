@@ -17,6 +17,7 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
+  width: 50px;
 }
 div.wrapper-footer {
   background-color: rgb(202, 228, 204);
