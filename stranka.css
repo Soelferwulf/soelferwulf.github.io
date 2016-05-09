@@ -12,7 +12,7 @@ article {
   background-color: rgb(202, 228, 204);
   
 }
-footer {
+div.wrapper-footer {
   background-color: rgb(202, 228, 204);
   position: fixed;
   bottom: 0;
@@ -23,7 +23,4 @@ footer {
   margin-bottom: 10px;
   border-radius: 10px;
   padding: 10px;
-}
-div.wrapper-footer {
-  background-color: rgb(202, 228, 204);
 }
