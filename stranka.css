@@ -37,6 +37,7 @@ div.wrapper-footer {
   padding: 10px;
 }
 nav {
+  float: bottom;
   width: 500px;
 }
 
