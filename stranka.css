@@ -9,7 +9,7 @@ body {
 article {
   margin-bottom: 40px;
   padding: 1px 15px 15px 15px;
-  border: 2px dotted black;
+  border: 2px solid black;
   border-radius: 10px;
   background-color: rgb(187, 228, 191);
   
