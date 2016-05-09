@@ -6,6 +6,6 @@ body {
   background-color: black;
 }
 
-div.entry {
-  color: rgb(150, 222, 152);
+div {
+  background-color: rgb(150, 222, 152);
 }
