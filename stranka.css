@@ -36,6 +36,7 @@ div.wrapper-footer {
   border-radius: 10px;
   padding: 10px;
 }
-nav a {
+a.list {
   padding: 20px;
+  margin: 30px;
 }
