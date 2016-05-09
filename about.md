@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Age of Sails
 permalink: /about/
 ---
@@ -9,16 +9,6 @@ permalink: /about/
 <head>
   <title>Age of Sails</title>
   <meta charset="utf-8">
-  <style>
-      body {
-          background-color: 	rgb(50,50,50);
-          font-family:  garamond ;
-          color: #87CEEB;
-      }
-      a {
-          color: #87CEEB;
-      }
-  </style>
 </head>
 <body>
   <h4>Co to je?</h4>
