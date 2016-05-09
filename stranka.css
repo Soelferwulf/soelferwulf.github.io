@@ -19,7 +19,7 @@ article {
 }
 footer {
   background-color: rgb(202, 228, 204);
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 60px;
 }
